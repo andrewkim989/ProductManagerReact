@@ -1,0 +1,94 @@
+.App h1 {
+  text-align: center;
+  padding-top: 10px;
+}
+#wrapper {
+  background-color: lightgrey;
+  padding-bottom: 50px;
+}
+#top {
+  font-size: 28px;
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 31%;
+  margin-top: 20px;
+}
+a {
+  display: inline-block;
+  margin-left: 10px;
+}
+.here {
+  color: rgb(73, 155, 52);
+}
+#home {
+  margin-top: 30px;
+  margin-left: 240px;
+  width: 900px;
+}
+#home img {
+  margin-left: 16%;
+}
+.error{
+  color: rgb(231, 48, 48);
+}
+#create {
+  margin: auto;
+  margin-top: 30px;
+  padding: 20px;
+  padding-left: 40px;
+  background-color: skyblue;
+  width: 500px;
+  border-radius: 12px;
+  margin-bottom: 120px;
+}
+#edit {
+  margin: auto;
+  margin-top: 30px;
+  padding: 20px;
+  padding-left: 40px;
+  background-color: rgb(135, 235, 180);
+  width: 500px;
+  border-radius: 12px;
+  margin-bottom: 120px;
+}
+#edit button {
+  display: inline-block;
+  margin-left: 100px;
+}
+#nope {
+  margin-top: 30px;
+  text-align: center;
+}
+#nope img {
+  width: 400px;
+}
+#products {
+  margin-left: 100px;
+  width: 1200px;
+  margin-top: 30px;
+  padding: 25px;
+  background-color: rgb(85, 207, 191);
+  border-radius: 12px;
+}
+#products h2 {
+  text-align: center;
+}
+.singleproduct {
+  background-color: rgb(173, 191, 230);
+  width: 360px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 8px;
+  padding: 20px;
+  border-radius: 8px;
+}
+.singleproduct img {
+  width: 250px;
+  margin-bottom: 10px;
+}
+.singleproduct button {
+  display: inline-block;
+  margin: 10px;
+  margin-left: 20px;
+}
